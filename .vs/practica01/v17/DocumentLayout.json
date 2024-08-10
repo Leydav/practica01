@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Xamarin\\practica01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E0D0F5-38E7-48F3-884F-01F15D7455AF}|practica01\\practica01.csproj|d:\\xamarin\\practica01\\practica01\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E0D0F5-38E7-48F3-884F-01F15D7455AF}|practica01\\practica01.csproj|solutionrelative:practica01\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E0D0F5-38E7-48F3-884F-01F15D7455AF}|practica01\\practica01.csproj|d:\\xamarin\\practica01\\practica01\\views\\home2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E0D0F5-38E7-48F3-884F-01F15D7455AF}|practica01\\practica01.csproj|solutionrelative:practica01\\views\\home2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E0D0F5-38E7-48F3-884F-01F15D7455AF}|practica01\\practica01.csproj|d:\\xamarin\\practica01\\practica01\\views\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E0D0F5-38E7-48F3-884F-01F15D7455AF}|practica01\\practica01.csproj|solutionrelative:practica01\\views\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E0D0F5-38E7-48F3-884F-01F15D7455AF}|practica01\\practica01.csproj|d:\\xamarin\\practica01\\practica01\\views\\home.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{C7E0D0F5-38E7-48F3-884F-01F15D7455AF}|practica01\\practica01.csproj|solutionrelative:practica01\\views\\home.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E0D0F5-38E7-48F3-884F-01F15D7455AF}|practica01\\practica01.csproj|d:\\xamarin\\practica01\\practica01\\views\\home2.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{C7E0D0F5-38E7-48F3-884F-01F15D7455AF}|practica01\\practica01.csproj|solutionrelative:practica01\\views\\home2.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E0D0F5-38E7-48F3-884F-01F15D7455AF}|practica01\\practica01.csproj|d:\\xamarin\\practica01\\practica01\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{C7E0D0F5-38E7-48F3-884F-01F15D7455AF}|practica01\\practica01.csproj|solutionrelative:practica01\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home2.xaml.cs",
+              "DocumentMoniker": "D:\\Xamarin\\practica01\\practica01\\Views\\Home2.xaml.cs",
+              "RelativeDocumentMoniker": "practica01\\Views\\Home2.xaml.cs",
+              "ToolTip": "D:\\Xamarin\\practica01\\practica01\\Views\\Home2.xaml.cs",
+              "RelativeToolTip": "practica01\\Views\\Home2.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T17:51:57.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.xaml.cs",
+              "DocumentMoniker": "D:\\Xamarin\\practica01\\practica01\\Views\\Home.xaml.cs",
+              "RelativeDocumentMoniker": "practica01\\Views\\Home.xaml.cs",
+              "ToolTip": "D:\\Xamarin\\practica01\\practica01\\Views\\Home.xaml.cs",
+              "RelativeToolTip": "practica01\\Views\\Home.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T17:38:32.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Home2.xaml",
+              "DocumentMoniker": "D:\\Xamarin\\practica01\\practica01\\Views\\Home2.xaml",
+              "RelativeDocumentMoniker": "practica01\\Views\\Home2.xaml",
+              "ToolTip": "D:\\Xamarin\\practica01\\practica01\\Views\\Home2.xaml",
+              "RelativeToolTip": "practica01\\Views\\Home2.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-10T17:38:29.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.xaml",
+              "DocumentMoniker": "D:\\Xamarin\\practica01\\practica01\\Views\\Home.xaml",
+              "RelativeDocumentMoniker": "practica01\\Views\\Home.xaml",
+              "ToolTip": "D:\\Xamarin\\practica01\\practica01\\Views\\Home.xaml",
+              "RelativeToolTip": "practica01\\Views\\Home.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-10T17:38:06.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Xamarin\\practica01\\practica01\\App.xaml.cs",
+              "RelativeDocumentMoniker": "practica01\\App.xaml.cs",
+              "ToolTip": "D:\\Xamarin\\practica01\\practica01\\App.xaml.cs",
+              "RelativeToolTip": "practica01\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T17:37:38.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Xamarin\\practica01\\practica01\\App.xaml",
+              "RelativeDocumentMoniker": "practica01\\App.xaml",
+              "ToolTip": "D:\\Xamarin\\practica01\\practica01\\App.xaml",
+              "RelativeToolTip": "practica01\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-10T17:37:29.494Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

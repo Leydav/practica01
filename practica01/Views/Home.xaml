@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="practica01.Views.Home">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="PRÁCTICA 01"
+                
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" 
+                TextColor="DarkBlue"
+                   />
+
+            <Frame CornerRadius="20">
+                <StackLayout>
+                    <Image Source="https://www.educaciontrespuntocero.com/wp-content/uploads/2020/04/mejores-bancos-de-imagenes-gratis.jpg"/>
+                    <Entry Keyboard="Numeric" Placeholder="Dejame tu GAAAAAAAAAAAA!!!!" TextColor="Gray"/>
+                    <Button x:Name="btnGuardar" Clicked="btnGuardar_Clicked" Text="Guardar" BackgroundColor="DarkBlue"/>
+                </StackLayout>
+            </Frame>
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
